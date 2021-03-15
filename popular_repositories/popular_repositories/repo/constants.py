@@ -1,0 +1,7 @@
+GITHUB_API_URL = 'https://api.github.com/repos/{}'
+NOT_PROVIDED = 'Not provided'
+POPULAR_REPO_MESSAGE = 'Popular repository'
+NOT_POPULAR_MESSAGE = 'Not so popular repository'
+ENTER_GITHUB_TOKEN_MESSAGE = 'Please enter a valid Github access token'
+ENTER_REPOSITORY_MESSAGE = 'Please enter a repository name'
+ERROR_MESSAGE = 'Error getting repository'
